@@ -1,0 +1,14 @@
+R: MAC (https://cran.r-project.org/bin/macosx/); WINDOWS (https://cran.r-project.org/bin/windows/base/).
+
+RStudio: MAC (https://download1.rstudio.org/desktop/macos/RStudio-2022.07.1-554.dmg); 
+WINDOWS (https://download1.rstudio.org/desktop/windows/RStudio-2022.07.1-554.exe).
+
+BLUESKY: https://www.blueskystatistics.com/Articles.asp?ID=317
+
+JAMOVI: https://www.jamovi.org/download.html
+
+JASP: https://jasp-stats.org/download/
+
+EXPLORATORY: exploratory.io
+
+OPENREFINE: https://openrefine.org/download.html

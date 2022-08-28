@@ -1,8 +1,8 @@
 August 29, 2022 
 - General introductions
 - FIRST THINGS FIRST (Exceling with MS Excel)
- - What's excel to you?
- - Rules, rules, and rules!
+ - What's EXCEL to you?
+ - Rules, rules, and rules fro spreadsheets!
  > Data WRANGLING
   - Year and month from date column
   - Merging multiple sheets (XLXS) and files (XLXS/CSV)
@@ -12,6 +12,7 @@ August 29, 2022
   - Year and month from date column
   - COVID Death map with a click
   - World Population map with a click
+  - Exercise: Create you OWN macros.
 
 August 30, 2022 
 

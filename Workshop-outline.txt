@@ -1,4 +1,4 @@
-August 29, 2022 
+AUGUST 29, 2022 
 - General introductions
 - FIRST THINGS FIRST (Excelling with MS Excel)
  - What's EXCEL to you?
@@ -13,9 +13,25 @@ August 29, 2022
   - COVID Death map with a click
   - World Population map with a click
   - Exercise: Create your macros.
+The END!
 
-August 30, 2022 
+AUGUST 30, 2022
+-> Welcome to R
+ - What's R?
+ - R IDE's
+ - What's RStudio?
+  - What are packages?
+ - What can I do with RStudio? - A ton!!!!
+ - Tricks and tips for RStudio (Makes your life easier)
+ -> Data import
+  - Import multiple sheets (XLXS) and files (XLXS/CSV)
+ -> Jumpstarting data viz
+  - Understanding my data
+- Introducing free tools
+  - JAMOVI
+  - JASP
+ - Taking addiotional Questions.
+The END!
 
 
-
-August 31, 2022 
+AUGUST 31, 2022 

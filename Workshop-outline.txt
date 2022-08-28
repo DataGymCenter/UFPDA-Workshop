@@ -1,8 +1,17 @@
 August 29, 2022 
 - General introductions
-- First things first (Exceling with MS Excel)
- > Data wrangling examples
- > Macros? 
+- FIRST THINGS FIRST (Exceling with MS Excel)
+ - What's excel to you?
+ - Rules, rules, and rules!
+ > Data WRANGLING
+  - Year and month from date column
+  - Merging multiple sheets (XLXS) and files (XLXS/CSV)
+  - Wide data to long
+  - Grabbing data from the web.
+ > MACROs
+  - Year and month from date column
+  - COVID Death map with a click
+  - World Population map with a click
 
 August 30, 2022 
 

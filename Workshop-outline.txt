@@ -25,6 +25,7 @@ AUGUST 30, 2022
   - Tricks and tips for RStudio (Makes your life easier)
 -> Data import
    - Import multiple sheets (XLXS) and files (XLXS/CSV)
+   - Pulling workshop folder into R
 -> Jumpstarting data viz
    - Understanding my data
 -> Introducing free tools for data analysis (R backend)

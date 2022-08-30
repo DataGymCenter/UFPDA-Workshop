@@ -1,0 +1,13 @@
+Visit to: https://github.com/daattali/addinslist
+
+Check out the different addins.
+
+1. Datapasta: install.packages("datapasta")
+
+2. Esquisse: install.packages("esquisse") - Create quick data visualization.
+
+3. View data in XLSX: remotes::install_github("dreamRs/viewxl")
+
+
+
+

@@ -1,6 +1,6 @@
 Visit to: https://github.com/daattali/addinslist
 
-Check out the different addins.
+Check out the different addins, and install the following:
 
 1. Datapasta: install.packages("datapasta")
 
